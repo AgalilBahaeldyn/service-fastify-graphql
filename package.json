@@ -1,0 +1,21 @@
+{
+  "name": "fastyfy-grapsql-apollov2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.7.0",
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0",
+    "knex": "^2.4.2",
+    "mysql2": "^3.2.4",
+    "nodemon": "^2.0.22"
+  }
+}
